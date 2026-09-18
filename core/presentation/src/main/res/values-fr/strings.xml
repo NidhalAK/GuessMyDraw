@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_bad_request">Un problème est survenu avec cette requête.</string>
+    <string name="error_request_timeout">La requête a pris trop de temps. Réessaie.</string>
+    <string name="error_unauthorized">Tu dois te reconnecter.</string>
+    <string name="error_forbidden">Tu n\'as pas accès à ça.</string>
+    <string name="error_not_found">Introuvable.</string>
+    <string name="error_conflict">Cette action entre en conflit avec l\'état actuel.</string>
+    <string name="error_too_many_requests">Trop de tentatives. Ralentis un peu.</string>
+    <string name="error_no_internet">Pas de connexion internet.</string>
+    <string name="error_payload_too_large">C\'est trop volumineux à envoyer.</string>
+    <string name="error_server">Nos serveurs ont rencontré un problème. Réessaie bientôt.</string>
+    <string name="error_service_unavailable">Le jeu est temporairement indisponible.</string>
+    <string name="error_serialization">Impossible de lire la réponse du serveur.</string>
+    <string name="error_unknown">Un problème est survenu.</string>
+    <string name="error_disk_full">Plus assez d\'espace de stockage sur ton appareil.</string>
+    <string name="error_local_not_found">Ce n\'est pas enregistré sur ton appareil.</string>
+</resources>

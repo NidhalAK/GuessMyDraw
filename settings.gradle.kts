@@ -1,4 +1,5 @@
 pluginManagement {
+    includeBuild("build-logic")
     repositories {
         google {
             content {
@@ -24,6 +25,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "Guess My draw"
 include(":app")
+include(":core:domain")
+include(":core:data")
+include(":core:presentation")
 include(":core:design-system")
+include(":core:testing")
 
 project(":core:design-system").projectDir = file("core/design-system")

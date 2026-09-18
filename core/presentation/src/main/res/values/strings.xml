@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_bad_request">Something went wrong with that request.</string>
+    <string name="error_request_timeout">The request took too long. Try again.</string>
+    <string name="error_unauthorized">You need to sign in again.</string>
+    <string name="error_forbidden">You don\'t have access to this.</string>
+    <string name="error_not_found">We couldn\'t find that.</string>
+    <string name="error_conflict">That action conflicts with the current state.</string>
+    <string name="error_too_many_requests">Too many attempts. Slow down a little.</string>
+    <string name="error_no_internet">No internet connection.</string>
+    <string name="error_payload_too_large">That\'s too big to send.</string>
+    <string name="error_server">Our servers hit a problem. Try again shortly.</string>
+    <string name="error_service_unavailable">The game is temporarily unavailable.</string>
+    <string name="error_serialization">We couldn\'t read the server\'s answer.</string>
+    <string name="error_unknown">Something went wrong.</string>
+    <string name="error_disk_full">Not enough storage left on your device.</string>
+    <string name="error_local_not_found">That isn\'t saved on your device.</string>
+</resources>
