@@ -24,4 +24,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Guess My draw"
 include(":app")
- 
+include(":core:design-system")
+
+project(":core:design-system").projectDir = file("core/design-system")

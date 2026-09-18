@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#151242"
+        android:pathData="M12,8 H36 A4,4 0,0 1,40 12 V36 A4,4 0,0 1,36 40 H12 A4,4 0,0 1,8 36 V12 A4,4 0,0 1,12 8 Z"
+        android:strokeColor="#818CF8"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M16,5 V8 M24,5 V8 M32,5 V8 M16,40 V43 M24,40 V43 M32,40 V43 M5,16 H8 M5,24 H8 M5,32 H8 M40,16 H43 M40,24 H43 M40,32 H43"
+        android:strokeColor="#818CF8"
+        android:strokeLineCap="round"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M15,16 H33 A3,3 0,0 1,36 19 V29 A3,3 0,0 1,33 32 H15 A3,3 0,0 1,12 29 V19 A3,3 0,0 1,15 16 Z" />
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M24,11 A1.5,1.5 0,1 0,24 14 A1.5,1.5 0,1 0,24 11 Z M23.5,14 H24.5 V16 H23.5 Z"
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M17,22 A2,2 0,1 0,17 26 A2,2 0,1 0,17 22 Z M31,22 A2,2 0,1 0,31 26 A2,2 0,1 0,31 22 Z" />
+</vector>
